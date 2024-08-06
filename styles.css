@@ -1,0 +1,81 @@
+h1 {
+    font-family: 'Zeyada', cursive;
+    font-size: 100px;
+    padding-top: 100px
+}
+
+h2 {
+    padding:40px 0px;
+    font-family: 'Noto Nastaliq Urdu', serif;
+    font-family: 100px;
+    text-decoration: underline;
+}
+
+hr {
+    width: 10%;
+    border-top-style: solid;
+    border-width: 5px;
+    margin: 100px auto;
+}
+
+p {
+    font-family: 'Nunito', sans-serif;
+}
+
+footer {
+    margin: 0px;
+    padding: 0px;
+    height: 70px;
+}
+
+#white {
+    color: white;
+}
+
+#subpage-title {
+    font-family: 'Alkatra', cursive;
+    font-size: 60px;
+}
+
+.block {
+    height: 775px;
+}
+
+.bg-image {
+    background-image: url(images/aurora-lights.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.round-img {
+    width: 250px;
+    height: 250px;
+}
+
+.img-vert-margin {
+    margin: 0px 0px 50px;
+}
+
+.caro-img {
+    object-fit: fill;
+    width: 100%;
+}
+
+.row {
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+}
+
+.top-container {
+    padding-top: 500px;
+    padding-left: 50px;
+}
+
+.mid-container {
+    padding: 100px 0px 0px;
+}
+
+.bot-container {
+    padding: 100px 10%;
+}
